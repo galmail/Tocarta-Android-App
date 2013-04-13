@@ -1,5 +1,5 @@
 # Git Ignore files
-/bin
-/gen
+/bin/*
+/gen/*
 .DS_Store
 
